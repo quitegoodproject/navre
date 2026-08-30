@@ -1,0 +1,22 @@
+{
+  "name": "@quitegoodproject/navre-sdk",
+  "version": "1.0.0",
+  "description": "Drop-in Client SDK & Web Component for the NAVRE.ai Next-Action & Value Routing Protocol (RFC-001).",
+  "main": "dist/index.js",
+  "type": "module",
+  "keywords": [
+    "navre",
+    "rfc-001",
+    "next-action",
+    "value-routing",
+    "s2s-cloaking",
+    "quitegoodproject"
+  ],
+  "author": "The Quite Good Project <engineering@quitegoodproject.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quitegoodproject/navre"
+  },
+  "homepage": "https://navre.ai"
+}
